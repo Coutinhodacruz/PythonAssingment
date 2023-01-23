@@ -1,5 +1,5 @@
 score = 0
-  counter = 3
+      counter = 3
     while counter<3:
         answer = input("Make your choice >>>>  ")
         if answer == "c":
